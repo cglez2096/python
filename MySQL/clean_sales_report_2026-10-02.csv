@@ -1,0 +1,5 @@
+id,producto,precio_usd,cantidad,estatus_pago,total_venta_usd
+1,Minisplit 1 Ton,350.0,2,PAID,700.0
+2,Compresor Rotativo,120.0,1,PENDING,120.0
+3,Minisplit 1 Ton,350.0,1,PAID,350.0
+5,Termostato Digital,85.0,3,PAID,255.0
